@@ -17,3 +17,10 @@ Version Beta 4 :
 - Essai d'un nouveau moyen pour ouvrir les fichiers WorkSpace
 
 __________________________________________________________________________________________________________
+
+Version Beta 5 :
+
+- Ajout de l'option "Help"
+- Mise à jour de la fenêtre qui demande le patch notes de la version
+- /!\ Attention ! Dans la catégorie "About" de "Help", il se peux que des bugs arrivent. Une mise à jour sera faite dans quelques semaines. /!\
+- Suppression du logo de la fenêtre "About" dans la barre des tâches.
